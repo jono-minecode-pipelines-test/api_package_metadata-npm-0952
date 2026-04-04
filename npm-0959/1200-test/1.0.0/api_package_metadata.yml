@@ -1,0 +1,58 @@
+{
+    "name": "1200-test",
+    "version": "1.0.0",
+    "description": "1200 test npm",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/k1200/node-middleware.git"
+    },
+    "keywords": [
+        "1200",
+        "node-middleware"
+    ],
+    "author": {
+        "name": "kml1200"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/k1200/node-middleware/issues"
+    },
+    "homepage": "https://github.com/k1200/node-middleware#readme",
+    "_id": "1200-test@1.0.0",
+    "_nodeVersion": "14.15.0",
+    "_npmVersion": "6.14.8",
+    "dist": {
+        "integrity": "sha512-vTWsu3ZO4GbK2hnW3sKD3HUXFDFytYtR9T16AYrCGavsO/XW60BXNK2MF8mrEd/hzx4+B5RDrzq15EzZc3b8wQ==",
+        "shasum": "8cab37113689947a4b5a17b945f26a05fa236e82",
+        "tarball": "https://registry.npmjs.org/1200-test/-/1200-test-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 533,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgOSLoCRA9TVsSAnZWagAA6egQAITLKlQio4mW96YIXMSM\nz8dZ3Pfnrfx/9ddElt4R2wDlLUHL/niZB5qd3ovOi8oCsn66s0qnDl4maGVB\n1+dvCXJ4Ed8B7NQ+aWFx5cgCM9LjWyQk6kpRr5ibqNOyDbYPLFgX7iIjTYmn\nFL3GlxM7tF6PWYMJjMh2hvjAzpQxgOsTt/jcF/+jHne7YvP0bzfgNQMXRGPA\nMmwKl5eKyDVnOt1HeiEP01Wmfey0XU4liVKaA7b1ueoLeWPLnwbEOPz7+8KR\nCgBIHFBl5YUGEC8ya2CkkJ7MPAHs7BVM9JlBiKwmrp0Ffd5UqOxU7vDITjEv\n0NnHh8uyV5q/cvI8KLNnOwGMC0dWuwvLEEVfqd5/43O2dv+KGTazUxgSfMFA\nKVg4XYfGGY1w/z1wS6hymxEnMsBmMT+FCFddQerrw3P+dcq1UrKd8HGbcTt7\nMo2I3MCvoYtkJFdb8NbBV+T8Cz0SztxcDH/hO56cCmVa03LwEOK68zzn7NIU\ngux/9pkT4wqCBla1Til3NefDDf2ATS0bi0cWdWRwAK57Y/TGE+E9xoX1GEXY\ncmbNzJk3BXZWRvzx1uJa4NPgZyofGevyjOEE8gJ/t2msnvc+sk+OwObO7npS\nVKJQGMOZYgjoR7RLxp2l2javNLua5OXQRneBM1qRXG8lkgh4AlEe9OI0L71U\nIIIk\r\n=gvkf\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDxWpSCJ2iH4/fMwQFKmROfF1+FAaFEABYOMr0VCxYbNwIhAMlbnAzHvY+OwUAqR2kskVtzn0xglfQAQui9J3hcT+l5"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "kml1200",
+        "email": "1053182739@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "kml1200",
+            "email": "1053182739@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1200-test_1.0.0_1614357223631_0.36662515260540807"
+    },
+    "_hasShrinkwrap": false
+}

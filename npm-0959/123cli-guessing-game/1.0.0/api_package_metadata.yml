@@ -1,0 +1,63 @@
+{
+    "name": "123cli-guessing-game",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "publishConfig": {
+        "access": "public"
+    },
+    "bin": {
+        "123cli-guessing-game": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Zakia"
+    },
+    "license": "ISC",
+    "description": "cls",
+    "dependencies": {
+        "inquirer": "^9.2.19",
+        "url-encode-decode": "^1.0.0"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ArwahAfridi?tab=repositories"
+    },
+    "_id": "123cli-guessing-game@1.0.0",
+    "_nodeVersion": "21.7.1",
+    "_npmVersion": "10.5.2",
+    "dist": {
+        "integrity": "sha512-v0pCz0oUYjf1hbOwRgE4TqTr1JX0g426EJL0dLK/BZWzOtJ0xT24IV7fO8Dmzvz7/RYG+yNJd4dxU0+fp2L5/g==",
+        "shasum": "e3289fcee6512fe893c24da583d79d345d916b1d",
+        "tarball": "https://registry.npmjs.org/123cli-guessing-game/-/123cli-guessing-game-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14636,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQD2vxBrQxFksFTieidq2BpR5FVpL8zl+/v4wdLZv0ceJAIgPPVipMgkb1LqvZnsQBmQCyJaXWT7/Z76RakRdgUqoQg="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "zakia1122",
+        "email": "arwahafridi11@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "zakia1122",
+            "email": "arwahafridi11@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/123cli-guessing-game_1.0.0_1713884364229_0.04272472913656489"
+    },
+    "_hasShrinkwrap": false
+}

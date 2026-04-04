@@ -1,0 +1,42 @@
+{
+    "name": "123haoqingfeng",
+    "version": "1.0.5",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "123haoqingfeng@1.0.5",
+    "_nodeVersion": "18.19.0",
+    "_npmVersion": "10.2.3",
+    "dist": {
+        "integrity": "sha512-3jCxLzdMeeATO3UgTvU1w4Kyhv6BA/XkcDa7HcS6Mz/ecnRU+UrTnFVs07DQ8X0ZTl5owtHmMahk+vzf2RYQ2Q==",
+        "shasum": "8398b2e627135b84e640bfa297a590ef6e424191",
+        "tarball": "https://registry.npmjs.org/123haoqingfeng/-/123haoqingfeng-1.0.5.tgz",
+        "fileCount": 2,
+        "unpackedSize": 624,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDS3Gnt50airJBkryzYqy0QWoD8hbEpEXE3cMrBuE2auwIhAIDLPzvcyxZXewaftyzdSAGJNbyuoIX/0XzUHk5jDfCE"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "haoqifeng",
+        "email": "836400384@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "haoqifeng",
+            "email": "836400384@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/123haoqingfeng_1.0.5_1711019173360_0.025520428628618363"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,44 @@
+{
+    "name": "1215exam",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "1215exam@1.0.0",
+    "_nodeVersion": "14.18.2",
+    "_npmVersion": "6.14.15",
+    "dist": {
+        "integrity": "sha512-l+0YbMGbsQoIoyAgqPxFTsF1coyA8TLhoC0Y3zsFN1WxD8OecbyJSR93V6jqRdzLjHC+dvcqqXB238A/r8JOrw==",
+        "shasum": "9b364532f4d33f137301de07445df1daab817499",
+        "tarball": "https://registry.npmjs.org/1215exam/-/1215exam-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 413,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhuTswCRA9TVsSAnZWagAAP/sP/118Epy2cwGmeaPjTQzk\nDC2caFHcOsKlOJszcKT1odEn/BgPfpzM2lpCoRFzorHq7FLn0Q9PsfovaUmL\nagCI5qqp+1o+fpgTWTpJGDtOTrpreH3ZNGF6eoM7uqNcVQ6F4ZEfCMR5TIsH\nVGMUWJBzf5seTmIz2wMi43KUEi/1fyIkFTNgt0oAHGoo9qNPEnp9S/9jkyh/\nvdmLC883ebYcAqcJERSdcJPy6CzoSkW/NG3MMB1KzV9x2WC903fR9pqR06Fa\njfxdTBdmbRj1Q2eb2USb0Yx++bowYfwdCtSlVyIy7lD9YdyDH9S1WZivfv4r\nP4UHGWCNIbQX2CYE13UK/HUvh9ksgPmK/LXvA06UqZIMJmrgj8DWj7N0cn8X\ngOpoSJ1FA5NplRAujvSKBQngqlwvOC3epMMOOERC0lmw4SNGcGfBDWzErxki\noGkdiqzGfCDuDBErcgWBU1tnuZyfT5P+nmvhw70MyuAduDMoGY48oJzaM1m/\n2EOABnHxh6odzxthXRr8VcWwyKHTyjqPasokft0sDbfvsyOUvAxUaT+7VZq9\nm/pJN7eCvsa4dPuMCERaKrPBsLp7JEZAOpzVHxx521Q20PhzszxWWslKGeM9\nWCDEZhdfMz9YxPgIdf+BaSon3XNdOONgdDbDnq0jsSQiUyIU8GUsnCFnE05u\n0PeB\r\n=05lp\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQC5/AWpCmwKdYNgXttjEvB1P4P/Fcy9klQ5tzfrAYPFGQIhAM8bm07/rETBWOLgBtMS9qqkPrDmLO9RTzboFS8eUzqW"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "a_anxuejin00",
+        "email": "3194878703@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "a_anxuejin00",
+            "email": "3194878703@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1215exam_1.0.0_1639529263871_0.551692561893095"
+    },
+    "_hasShrinkwrap": false
+}

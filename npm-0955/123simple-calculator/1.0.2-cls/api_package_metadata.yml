@@ -1,0 +1,55 @@
+{
+    "name": "123simple-calculator",
+    "version": "1.0.2-cls",
+    "description": "simple calc using node TS and inquirer",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "123simple-calculator": "main.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Subhan"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "123simple-calculator@1.0.2-cls",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-GMmooRXN5cCjZYhA4XcbUO3yqeyM6xQ9xDtLzwRjS7vU0tthrwXbAD6EQEAy0HCNsKJwgphjcBPRLEZD6Ayatw==",
+        "shasum": "a169d8a329f33f99789760e5b79933cd9f1e5b88",
+        "tarball": "https://registry.npmjs.org/123simple-calculator/-/123simple-calculator-1.0.2-cls.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14781,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIC/eZfQAZonTTLavXwgg0YPkzi6M7XyZhqW9E+/IUK32AiBf0eaMr/L0XReIze2pM/Ip1GtZzDV4svhfbQA+qc6I3w=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "abdusubhan",
+        "email": "ranasubhanrajput6677@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "abdusubhan",
+            "email": "ranasubhanrajput6677@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/123simple-calculator_1.0.2-cls_1710874311811_0.22876128409416263"
+    },
+    "_hasShrinkwrap": false
+}

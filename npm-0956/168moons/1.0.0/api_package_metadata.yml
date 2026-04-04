@@ -1,0 +1,43 @@
+{
+    "name": "168moons",
+    "version": "1.0.0",
+    "author": "",
+    "license": "ISC",
+    "_id": "168moons@1.0.0",
+    "maintainers": [
+        {
+            "name": "168moons",
+            "email": "168moons@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "97c9f1e3eface447ec7f715a55c9da70271e4b39",
+        "tarball": "https://registry.npmjs.org/168moons/-/168moons-1.0.0.tgz",
+        "fileCount": 18,
+        "integrity": "sha512-1UNovBvtkJ8x3C+WZmTNtfUnJOD6MxcsafQ6LgFidglvRZnwnbYDxPT2Dc0TAHieEgDzwY5kUQY0dOpx/PaAZA==",
+        "signatures": [
+            {
+                "sig": "MEUCIQD/954Io0MKOvawjB7KkPOUmEo3OUvXzRTxL/8uVylHcQIgY6CYr8Q5yW98wCrq3Obw05Sq7RAsnkNZIvd31N7bueI=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 2122074
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "_npmUser": {
+        "name": "168moons",
+        "email": "168moons@gmail.com"
+    },
+    "_npmVersion": "10.8.1",
+    "description": "168moons charts",
+    "directories": {},
+    "_nodeVersion": "20.11.1",
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/168moons_1.0.0_1721553017236_0.37714868891641506",
+        "host": "s3://npm-registry-packages"
+    }
+}
