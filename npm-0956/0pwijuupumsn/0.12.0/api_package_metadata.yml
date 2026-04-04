@@ -1,0 +1,44 @@
+{
+    "name": "0pwijuupumsn",
+    "version": "0.12.0",
+    "description": "A library to load encoding dictionary data",
+    "main": "dict.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "0pwijuupumsn@0.12.0",
+    "_nodeVersion": "18.18.2",
+    "_npmVersion": "9.8.1",
+    "dist": {
+        "integrity": "sha512-1trfDbfkilWURzQwJUrfwZOA8HBWcpfYrzqt3BpGq5SoZj6ml07pCPSo1RegcwQ49W2mA+Bq6FlEPyVvajD9sA==",
+        "shasum": "e12e4fc5c6c2ada5fa30da28e6a2d1d79fda9c37",
+        "tarball": "https://registry.npmjs.org/0pwijuupumsn/-/0pwijuupumsn-0.12.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 2732054,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIHWDHSK4oVnAK6rA9ObBN271SgcT/204UZH2xyODvyi/AiEAuauXqA2rM6TthCh7LOZp/thvHSUTGaafI5jih+XDlVs="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "happysimplefish",
+        "email": "happysimplefish@demudo.org"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "happysimplefish",
+            "email": "happysimplefish@demudo.org"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0pwijuupumsn_0.12.0_1707393606607_0.2611859852326728"
+    },
+    "_hasShrinkwrap": false
+}

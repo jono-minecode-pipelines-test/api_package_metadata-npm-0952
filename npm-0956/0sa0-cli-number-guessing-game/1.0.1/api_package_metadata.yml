@@ -1,0 +1,52 @@
+{
+    "name": "0sa0-cli-number-guessing-game",
+    "version": "1.0.1",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "0sa0-cli-number-guessing-game": "index,js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "0sa0-cli-number-guessing-game@1.0.1",
+    "_nodeVersion": "21.6.2",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-8xAqLlO0Z46JHiAvtx//+yX3qv/pAdw/eSxgeW8eza90L1oOPH9c9l8IYfaoHM9PelurMwaWpXQTXCNOlUjmeQ==",
+        "shasum": "c592027836368cb339efc670927a469b7a467c4e",
+        "tarball": "https://registry.npmjs.org/0sa0-cli-number-guessing-game/-/0sa0-cli-number-guessing-game-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 13685,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDJ6sf/dHhUbOE+70HN3U2CgYNEEgpU1UWGneKvzDk7hgIgJ0siPPuFKvX5qWKsPfxt3v90WK0fv6No0GJw8vL0854="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "syeda090",
+        "email": "Szadi0317@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "syeda090",
+            "email": "Szadi0317@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0sa0-cli-number-guessing-game_1.0.1_1711728940491_0.1493149693833915"
+    },
+    "_hasShrinkwrap": false
+}

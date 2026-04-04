@@ -1,0 +1,45 @@
+{
+    "name": "0th1dj",
+    "version": "2.3.2",
+    "description": "0th1dj",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "kevinphillips294j"
+    },
+    "license": "ISC",
+    "_id": "0th1dj@2.3.2",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.5.2",
+    "dist": {
+        "integrity": "sha512-qEFEgl9bd7iOIC5TXTUNvJoqa5QQMN7VVZ/+hSJQOWGiq269l3j5M5lqI+lMYp3rmmsXm2h6rLRga5k2a/ZQtA==",
+        "shasum": "9bee5a32617412e0602bfc3249d580cfe816ec9a",
+        "tarball": "https://registry.npmjs.org/0th1dj/-/0th1dj-2.3.2.tgz",
+        "fileCount": 2,
+        "unpackedSize": 836,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQD+cFr29MUhIdxcL4ZUw4qgcuN2KPYVYh+obPABaah4GQIgLY45tLCr0eZK2KhVBPHwHLn6ifVKBTVUsn65m8qyvGY="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "kevinphillips294j",
+        "email": "kevinphillips294j@cultureleb.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "kevinphillips294j",
+            "email": "kevinphillips294j@cultureleb.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0th1dj_2.3.2_1683408683240_0.3903512868326322"
+    },
+    "_hasShrinkwrap": false
+}
