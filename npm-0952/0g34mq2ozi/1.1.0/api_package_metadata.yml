@@ -1,0 +1,63 @@
+{
+    "name": "0g34mq2ozi",
+    "version": "1.1.0",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "next": "14.1.4",
+        "react": "^18",
+        "react-dom": "^18",
+        "tangdrv": "^1.0.7",
+        "tanrandom": "^2.0.2",
+        "chuyengiawp": "^1.1.0",
+        "tan-md5": "^1.0.2"
+    },
+    "devDependencies": {
+        "@types/node": "^20",
+        "@types/react": "^18",
+        "@types/react-dom": "^18",
+        "autoprefixer": "^10.0.1",
+        "eslint": "^8",
+        "eslint-config-next": "14.1.4",
+        "postcss": "^8",
+        "tailwindcss": "^3.3.0",
+        "typescript": "^5"
+    },
+    "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+    "_id": "0g34mq2ozi@1.1.0",
+    "_nodeVersion": "18.16.0",
+    "_npmVersion": "9.5.1",
+    "dist": {
+        "integrity": "sha512-nqsbGow0T9jo016QESrB4r2gs1Nwt7GqVhDLCw5LEqlHoWWjKNrzU47w6Q4/DMRTEVYJrtEDPWvyF89P5mBGcw==",
+        "shasum": "a41cea1f5c4ed704c61e2aaca11e728b13142f14",
+        "tarball": "https://registry.npmjs.org/0g34mq2ozi/-/0g34mq2ozi-1.1.0.tgz",
+        "fileCount": 13,
+        "unpackedSize": 38474,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCsuACSxtgRTfxc0CR5/nPmIkrzbay96mOJwX5QkO/mlgIgLZPwwQ4LGslSLa51Dljzc5lkKUPpeDzq3rMxir2Moyk="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "chiricato",
+        "email": "levantan.vn.it@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "chiricato",
+            "email": "levantan.vn.it@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0g34mq2ozi_1.1.0_1712305212340_0.9789484627827032"
+    },
+    "_hasShrinkwrap": false
+}
