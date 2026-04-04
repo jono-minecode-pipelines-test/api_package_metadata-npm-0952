@@ -1,0 +1,45 @@
+{
+    "name": "03-my-self",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "03-my-self@1.0.0",
+    "_npmVersion": "6.4.1",
+    "_nodeVersion": "10.15.3",
+    "_npmUser": {
+        "name": "guanweilin",
+        "email": "2692151013@qq.com"
+    },
+    "dist": {
+        "integrity": "sha512-F8UvjH+9XeXMipAW8Hhv1xT01b+EzYEUJlcuj209l9JFGMrR+/27e/gYJokOGmhLoaqnqjAYeOjrG7/RNR29Vg==",
+        "shasum": "9b186a2134684a1b692e80faf182bf214ef068ab",
+        "tarball": "https://registry.npmjs.org/03-my-self/-/03-my-self-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 446,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJc2sSXCRA9TVsSAnZWagAALtYP/1m8tzqnYffUAbWTrxKv\nE3yXFWfMI0GAjeAHchy4+BCYZUFzLs4V6FWHk/304szOQZno7uHuvPsI1qGY\nWBE1S2z4B8fn87fB0ZTaXRgA9U1iuYK3G6/ZurtlzgEwDQKMPitGFrgV0lgo\nXUkp2bFnCWM3E4DQ6IG9OoCW6YkVVij+6fK+SuUko/p+kPFjMtqDKTVhBcH0\ng95iN6tSZvH0r6PDHXE/M43NG1a/NmsYXV8WrUIW7ZnlNVk7BwwRasL07i0F\nN9z80l1kKmnLffu7duSJ8v2QDFzEx8w0cN30dEN7o0D4o+UDr+qm0z1bW4Sl\nQj3c/YQKldy6OXIhxbXKAU+t3gBj6QxS2cNDGj9sWexrEjTrusRaPvFG+OUJ\nMH8Jm1z0fK+wxHuzUa/snXmGhE47hVSXrzvzp9BDFGc2N3dUbaoxr2br97Kw\nH9TGyqkkHaH21toFr/dIi0QHNK4Jn/yO4/33F8Ef47pP1frWRxw7grM5TYZr\njQpwHR3ZcC0PdfhfnUfbN+xOIvGZ4/66DL0hxIBNe3u0S0Dk57y1SFiXaEc9\nM01ktNQi+xEaJiunWr0g2+rkTTHvL8czyArH+rWQnqlMg5ivkIAz4JBviSKx\nsO9oyabLOuQKeSafnKXI2KBfydRVorukEhyOBipPe/eWaRv/J/ZuZOndoOse\nrPx4\r\n=CWFK\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDQnopDTmWQYXOdqTpQBV0X/hWiJU2F9L594GTTedXihwIgH2xcU1Evtrj9owYvhlmCfUAxoomaXlngimmT1X/BHGw="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "guanweilin",
+            "email": "2692151013@qq.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/03-my-self_1.0.0_1557841046734_0.1839410856478596"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,46 @@
+{
+    "name": "01template1",
+    "version": "0.0.1-security",
+    "description": "security holding package",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/npm/security-holder.git"
+    },
+    "bugs": {
+        "url": "https://github.com/npm/security-holder/issues"
+    },
+    "homepage": "https://github.com/npm/security-holder#readme",
+    "_id": "01template1@0.0.1-security",
+    "_nodeVersion": "14.1.0",
+    "_npmVersion": "6.14.4",
+    "_npmUser": {
+        "name": "npm",
+        "email": "npm@npmjs.com"
+    },
+    "dist": {
+        "integrity": "sha512-za5nxRbT1NU5q0JnOd61OGVo2JqmAtSZuRd6XKL+vpqlNEBWw67q0NTrz590lJtemo8decJjQNI6CoT6QrdoYg==",
+        "shasum": "de62f28abb24f862c10bab89321c72eca5f4b887",
+        "tarball": "https://registry.npmjs.org/01template1/-/01template1-0.0.1-security.tgz",
+        "fileCount": 2,
+        "unpackedSize": 430,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgtlqoCRA9TVsSAnZWagAA4BkP/ig6Yk0fXANKjT7mQEeK\nHvOZFH9Su0hF79hNcQnD9566wGNT7SBc2Jsjy9G3gyvbawmJMHmfvqqghNpU\nnHXUFfa2/oXG8rkHXuI6OeLbDF08oSOPo3XXT3Amc4mdSTmNe2je3oJE/rRL\niaDiHUWOrP6yTaKRJtoczGq7VSOyrOCkpl8AJ5t8TiZju6RnkhGqaWDvyKDO\ncBWcCKM7Yp8LN5+pKT8JZXPIrTUTtubQESlb5N7thdSldccLYf5oNoKwz6Cs\noALU+leDaF6korrPe7u988Swv4ImcJSFKq7oK/aGqrClXvcj96zsGnJaH0OY\n9TECQtnMTX9HeH/OPDLe1SH9Dxx/8jtChx3vV2q2V7uRP7OXFm7YFVRIqVjL\nfqiYTSjPsZ2eoOMMI35ezvNRxo6U2ECq9x2kNHygNvFB+yrAmNMPwzKwJjcF\nXSK3whj8vPAu8kauGnQqY61542zMqKhI/3f+6jcRUiiQjhsmAjm3jEUCNALw\nlYwDdWrgsbKZNEKo+tNJzskiYWVRCSW32bfrd/RaEjAxNww/nshmtJ2su6Rd\ngK+RBDHFc/XT1wH0ew9FB3ilOm/sHP/yhi/33ucusMmuI1NfNnPmJFL7NTuV\nMPtc3g09ktgN6DTa+2x1JneNWfJH2Ex2Mx0byTjr1XHKVa3LfuiczaHDWd0U\nopq8\r\n=Tqk7\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQC4uQKAGIye5tAsMMZJpohq0XSbKYaGgdK5/gVzBarYcAIhAPX+oNvzDyW+Io4JCiZgMfK5MoAp5hgNVJIqlGF6mOfk"
+            }
+        ]
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "npm",
+            "email": "npm@npmjs.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/01template1_0.0.1-security_1622563495917_0.824330645937362"
+    },
+    "_hasShrinkwrap": false
+}

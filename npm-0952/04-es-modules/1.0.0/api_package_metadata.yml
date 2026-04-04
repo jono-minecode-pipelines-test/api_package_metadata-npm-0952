@@ -1,0 +1,49 @@
+{
+    "name": "04-es-modules",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "dependencies": {
+        "is-even": "^1.0.0"
+    },
+    "gitHead": "6c1170f97f5a68ebeb3b26285aa4b2f9919fef81",
+    "_id": "04-es-modules@1.0.0",
+    "_nodeVersion": "24.11.0",
+    "_npmVersion": "11.6.1",
+    "dist": {
+        "integrity": "sha512-QeLNh+LjxXQKVPjljeps+dY7HFLuRCij015SjClA4/LCKa0ISvDP8Z8rh4nXF/dYMBZEmkF79NzlqaaixxF81g==",
+        "shasum": "643307884e9dda3335e58a39db7868724174ae7f",
+        "tarball": "https://registry.npmjs.org/04-es-modules/-/04-es-modules-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 519,
+        "signatures": [
+            {
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                "sig": "MEUCIA3DMJa8AWsBIZT5epHSOZTCIVxY1FZemZZfA0TRiIJ0AiEA+0bkLa2QP8ogvN0a7+JkH5leDP8ZNghmX/iqkqQD+mY="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "nitheeshmk5",
+        "email": "nitheeshmk5@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "nitheeshmk5",
+            "email": "nitheeshmk5@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/04-es-modules_1.0.0_1763443851018_0.7180659100956299"
+    },
+    "_hasShrinkwrap": false
+}

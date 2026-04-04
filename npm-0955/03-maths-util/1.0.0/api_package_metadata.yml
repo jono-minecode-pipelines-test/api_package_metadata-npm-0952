@@ -1,0 +1,47 @@
+{
+    "name": "03-maths-util",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Devashish Soni"
+    },
+    "license": "ISC",
+    "_id": "03-maths-util@1.0.0",
+    "_nodeVersion": "16.16.0",
+    "_npmVersion": "8.11.0",
+    "dist": {
+        "integrity": "sha512-H2JuCnJflJ0UeFLzP9f4RdnEewuQvPae90mROeW0tGYI+xNMeqlR11wI0k7WpxUlNGQj6dAVcO2/QCc0NkcBMw==",
+        "shasum": "732156e0eaf8ba7c5ae68509a31cc5ee5ef9d17e",
+        "tarball": "https://registry.npmjs.org/03-maths-util/-/03-maths-util-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 316,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQD/Bf+cjj8TRInRkZgJuwgukQpdB3/Zu5g84yJ9J129LgIgSR4JexL1NgYQEzlNB1ZaW49q48moCMNbKEB1gVKd2Es="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjIwGyACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpjyg/+OaCq2hxutqlUVFlLnAVFRYfohD7qeeL29JBxjmB0lmBDjA9s\r\nokrVAq7Z1LWWMwod8deGJaHYD3aYxjre7Gv3dMXRCfj35xCWw/MXAd0jQTga\r\njH2wx+ya3T5i+8TPWuDWzpVS1yJjZf1n+hk5m57aUU7pdtNou6avLdkUv/Xs\r\n1o+lq8fFffvzheNZozo/m38QA/uGYeYeFCSF/fT1c5uLYL/+x8UMHI0sXAcS\r\nhlUyWM7DH2kL4sxtrEctcsiZn4LwaIImnGH1JHeFNabIZsct4UCIQEx1zAuk\r\num/8wFezWw8DvkT/xTm/P/aHmaaQtt3pvAFaeKUD/EZ4WNu0Omn2X/QvfL3d\r\naIZ/YMOEHj1t/H8SI8vwkw/vUf7WkM6zWGTUU0ZnBcmASNRLlS6LiE6qiM/U\r\nFb4oqxN3P2hvTSOmQT3ri3M6WzzGGaTb9CeDpB0g5sCuQ4ORrmWMYQ0wlnDD\r\n25Ehs6QWMBfu45pt7OLyHTXydixXsKxohrsRDJNv76KutsEvZhRabdLJRq3C\r\nw2vGRQMZGfYmpTUm0BbL9HHDGOzUGfmg87FhNXVVIlW6RTvBhXZzo1wYX69k\r\nW0tu8kyAB/h1WAmz47OviN5L3MKb4kigw29425ksLr61RrwQdTjSvvlNnAgR\r\njz7b0Fy+Mr0ZBHKaVlsG0ikwEc+KmXIZXrg=\r\n=qpHp\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "devashishsoni09",
+        "email": "devashishsoni09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "devashishsoni09",
+            "email": "devashishsoni09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/03-maths-util_1.0.0_1663238578612_0.9164276394071986"
+    },
+    "_hasShrinkwrap": false
+}

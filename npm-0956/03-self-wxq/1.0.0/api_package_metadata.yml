@@ -1,0 +1,48 @@
+{
+    "name": "03-self-wxq",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "^4.17.21"
+    },
+    "_id": "03-self-wxq@1.0.0",
+    "_nodeVersion": "12.16.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-MuZa9esHMzGD7U3zQYH/nYLmlsX3/CNyu3iOLVQ9rE1ojGYyWHgzAYYyf/fJCRoqtqc5Uy7gIEcX8wwuDBvR9A==",
+        "shasum": "cc84e57af747d69075dc22c381d2aa4feebcdbc8",
+        "tarball": "https://registry.npmjs.org/03-self-wxq/-/03-self-wxq-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 542,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCGkdhvH5+MH33R00NpLVUyFUfMFPrEVDVdxeItk9o5uwIhAOOqsQV0Bl6a56CQohYNlumwCLZfonhqDE7pfy1TmrjY"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiUp2kACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpF5g//QRf9v1GG+WEUC4ftPeGUlTD0HTJRExSpX6g2fX1xLekfbQWW\r\np9TT1t9iZIAHbrAy48PLhXLWEpzbi/tJsc2mlCPJXXX2c7jGzxQ03ftwYBiN\r\n+waRvGawUlsH2dedkyXNGQwbej/uO62JQBe+kmlRGkQHUshM3enYVwnw9BLT\r\nND2IH2RyY4Im22vyxSDs+nz8wnp8KVOp97ju7Gp0g7Gr+CTtlv9PU2jN7ffA\r\nuutzjcQ00pTFOzwIWDT8Eh6Zpk4rednsx4wCabyydOLhRBAy3adisgwm3KrU\r\nsdY4ILgmTHDDxyAfGDeieGPi4adxa8DahOzV6A/i/S3EUSkt2KrbstPJ0AR1\r\noUgmVviwCnNosF4s/CVEH4DdDWuowwbUV8OJnoKX7vBaMlIBOkvCakdmkt/n\r\nVm5CfoNVYhsDp3OrtwgUQHMoL7S7BXRU5Loikn+/CJCfyhFEgxoVwbZ+vazP\r\nYlq44V3bnqbqP43I0yrYF/z7OsCSfjWnEA5LqrRcH7j8HWUrq+BepGT6F0Ni\r\nFbYhMDdm98HRsWyPEAY7fUL3tnIo9m5idNUe+0z2FFmaajRSKPxMey+su+ii\r\nEvOiwtSCtbzD260tPS+ZaQh9LsNY2BpcayOBgbu/HMnGTWo+6N0JGdrdqyWb\r\nUZ0xwU9gL5fNWWdCzm9yOpoQ+4AdwSYQnQw=\r\n=wsGe\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "wxq911",
+        "email": "2113846918@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "wxq911",
+            "email": "2113846918@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/03-self-wxq_1.0.0_1649581476048_0.31273217978215406"
+    },
+    "_hasShrinkwrap": false
+}

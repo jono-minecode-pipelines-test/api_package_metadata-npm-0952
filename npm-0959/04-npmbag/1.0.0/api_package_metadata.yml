@@ -1,0 +1,45 @@
+{
+    "name": "04-npmbag",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "04-npmbag@1.0.0",
+    "_nodeVersion": "16.15.1",
+    "_npmVersion": "8.11.0",
+    "dist": {
+        "integrity": "sha512-2M9IjVjY2HqUp0t/xDPUH855JLvM7/h435VmFEdEUE4U8gG+FE59HXF/swLBFxcxlHmenJssQNefRRsdqEQ3KA==",
+        "shasum": "ac854e6fd4316b1da60fa201eae35d9c00ad610f",
+        "tarball": "https://registry.npmjs.org/04-npmbag/-/04-npmbag-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 293,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQD1c6y7CMyQXn774XYS4oPMntI/YLg0u276nEKHKrcuEAIhALpfGJhQsqsmYAAWIemw0Q/y6iqwvXkk8Uc6L70TMAN4"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJisHY2ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp08g/7BjIsxWygtBBF79E5E5BZ1eq1vVCsf+VgUqOWv0gpnmRiNG2e\r\nabhdsIedIEOgRvbCEznhMVl6Mm2tUPzOmbthZJGglIk9k+wuvsOLEYoRSg4o\r\nUWKEMfFa9g1Vc+VnjpMoYmnYWIorZPS3v1YlGMKjIylCRcCNHT3h7ZAyPEYH\r\nn+VVypjTmNOzgzofeBAmj+oznvpEI1LnaiY5uzWuVYUfNCnOFAT+H8MoQb8O\r\n321QmquZVwjOXENnUILiRo6ybH3ekxv3rSySEp471iOXtR/W65fYG+3lEEW+\r\nMAm0yJIsSoSHv+igXtB6jPSuL4VsuxPkYBRHhOCf6eCLWbXSzDrzPndR7QSP\r\ney+VlwuG62HObcxTDYa2XaKFEMWGMGPXHij777nDsZSrIin/IBNvXg2d8zv+\r\nPLhdlT73sdsMuSAAvFNrHYMtIgeClrlJ+EccDgTb9ZkLPumzxW7CDC5GOfI7\r\nT6vyZD7sSaX5NYhPp6GS+byGVclrmQSApwofdX/H5Y9f/kyLddgREBV8w8Qw\r\nAiCNhFhHTp7/k0eYY2GEZCxOH62o1dHKGSQLRXvSP2RBnT0IuTUJDYsUEJ6V\r\nXGF9pYfxMl6KMSVbpTj2zTvTa1ePZtJW9Mu7DDze0xAz9CZ3hBubtwLx7LIa\r\nRs//3koRMrum5OD3wV3jyuuAK7MkRMN23CI=\r\n=+shk\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "cute-far",
+        "email": "2294413850@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "cute-far",
+            "email": "2294413850@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/04-npmbag_1.0.0_1655731766469_0.5431405154313598"
+    },
+    "_hasShrinkwrap": false
+}
