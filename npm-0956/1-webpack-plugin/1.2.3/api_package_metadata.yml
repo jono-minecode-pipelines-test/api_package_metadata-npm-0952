@@ -1,0 +1,53 @@
+{
+    "name": "1-webpack-plugin",
+    "version": "1.2.3",
+    "keywords": [],
+    "author": {
+        "name": "jkr"
+    },
+    "license": "ISC",
+    "_id": "1-webpack-plugin@1.2.3",
+    "maintainers": [
+        {
+            "name": "jiakairu",
+            "email": "jkr301041@163.com"
+        }
+    ],
+    "dist": {
+        "shasum": "8f95a4723dcc9cf883d475510574475b6683534e",
+        "tarball": "https://registry.npmjs.org/1-webpack-plugin/-/1-webpack-plugin-1.2.3.tgz",
+        "fileCount": 7,
+        "integrity": "sha512-6zLBJIp/ws8y5BRnX85QYHIvPCLqfItSO9FYEgxxEwy4GJbs9vkGGf1ig8jr+rfrInqyD5V3D4PKBYDpSc0mYw==",
+        "signatures": [
+            {
+                "sig": "MEYCIQCRdGpB97jC7XDRVqwnqY4JnXyHX/944SDosiwgPtdsmgIhAI2VBY0cTsEsQjcZl1pWukeHwl2eTaYNl6/6AKxYdyUk",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 5394
+    },
+    "main": "index.js",
+    "gitHead": "d9e63bb63cb2b293914e4deb4a36a0f55474e38f",
+    "scripts": {
+        "dev": "webpack --watch",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack",
+        "release": "npm run build && npm version patch && npm publish"
+    },
+    "_npmUser": {
+        "name": "jiakairu",
+        "email": "jkr301041@163.com"
+    },
+    "_npmVersion": "10.7.0",
+    "directories": {},
+    "_nodeVersion": "22.1.0",
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "webpack": "^5.92.1",
+        "webpack-cli": "^5.1.4"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/1-webpack-plugin_1.2.3_1721021540995_0.5584458898058189",
+        "host": "s3://npm-registry-packages"
+    }
+}

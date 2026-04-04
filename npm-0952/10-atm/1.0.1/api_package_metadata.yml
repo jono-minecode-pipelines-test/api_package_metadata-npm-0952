@@ -1,0 +1,51 @@
+{
+    "name": "10-atm",
+    "version": "1.0.1",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "12-atm": "^1.0.1",
+        "inquirer": "^9.2.17"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "10-atm@1.0.1",
+    "_nodeVersion": "21.6.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-wBHe5DZRrSDpzv34GrRQx1zRhWEApL0TLgl62QLNVpCQzKHqcQ7C4djUUxSosk4q96vtFjLnkpgb7xNEZx/lSA==",
+        "shasum": "d577ba22b7127e59372304bdd02d08e4094081aa",
+        "tarball": "https://registry.npmjs.org/10-atm/-/10-atm-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 16463,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQC1zT0AZmYEsdShGqNQ4neIIF2DcB1bujkRqIjmaxxsagIhAK2Kg7nZS8qCUYG0OaHrQV/0o8JZ+WDbXI5NZaG9gebZ"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "mariya20",
+        "email": "Sheikhmayya6700@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "mariya20",
+            "email": "Sheikhmayya6700@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/10-atm_1.0.1_1712365977162_0.2176552598247119"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,55 @@
+{
+    "author": {
+        "name": "wujiangqi"
+    },
+    "name": "1013_wu_957",
+    "version": "0.1.1",
+    "description": "Censors words out of text",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://gitee.com/wujiangqi/newtest.git"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    },
+    "gitHead": "0497e75a86fa2271b92a50676ac7e4a07f606d1a",
+    "_id": "1013_wu_957@0.1.1",
+    "_nodeVersion": "10.16.1",
+    "_npmVersion": "6.9.0",
+    "dist": {
+        "integrity": "sha512-fQE9qw89OGHYusijm/Dl2AyZoUpvP8R/earkfMjp95JZBQsF3P7VsCaOaFEN6ZTd7x0sfXTqVunDUc9yZQCsuA==",
+        "shasum": "7a8651583a457070211cad0d8f989ae1d6619828",
+        "tarball": "https://registry.npmjs.org/1013_wu_957/-/1013_wu_957-0.1.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 3283,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfhXD7CRA9TVsSAnZWagAAKYIP/iWqr0N+61attih7XO5Z\nGfzI5uvRNdZdZ7Lkobp65cH3SjtBCuZxWJ+zShzoWM4ZCgCQUCME9msYsJlx\nApAeoq7v4PAqM9IVfD8jUn9H7t+LkQRrejD7B+5okBQqVJZ0gtGaY8xRRZ6h\nb31F6FRY6Baw1HwoNaqY5Fp1LOhih/puz8IULpbwJ3Zv7lxZBt69UqvY+fK8\nvhPcx+yBuz9YGN3c+r2d6XHG87EE2NPR3I91oPxcLWev/mYZDOgLKPZJvOAP\nZr+Do9WDq0iAb85hkD4Qbls8rqTeG7OdKqXoBoHg8CcFGohrr+/ZuFf5Wb5d\nB1IQPGdlUTz0S+as1auklU28Tp/BWUQq9RPkl3KeFTHxb+AUqNd/HuEjYhIo\nSy4iNX8E1Yr23JVo12fgbWlFI4W0iZsT20LfzKOBaJoLldLLjiqOT3QFZEWa\n2rdnhalsY6AZBuntrhgpUXBEANIikwxwt13U+xi9IDxxwXGhyBn4IIy3zZEv\nllehXoulYr+9MtAtfxtTwg1dPl1R84rwQVqOzpnfllSHBBQkxdjuBUgmxyMU\nk732DmqraooAPXIJ7ph+9jOndgxtko+oAsiRGo8PDaLNRhXnLuDwIBE0Roix\n4Qszrkr82Kvp0PX1J45RHUStoRZxjolMGj752eTtaHXwleepnSAN8bP98QmL\nrHP9\r\n=RJy2\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDxqneBucM8RBVuV9Udb6+Z7D8RUJeyTpA7xm4Ib4taNwIhAP2qi2CIWQta7bs/ofm/jE18S18bjF7UwZNsUnRpxcYk"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "wjq_957",
+            "email": "395397396@qq.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "wjq_957",
+        "email": "395397396@qq.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1013_wu_957_0.1.1_1602580730550_0.21675620634401138"
+    },
+    "_hasShrinkwrap": false
+}

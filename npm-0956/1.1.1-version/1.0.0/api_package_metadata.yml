@@ -1,0 +1,46 @@
+{
+    "name": "1.1.1-version",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "manav-package": "^1.1.1"
+    },
+    "_id": "1.1.1-version@1.0.0",
+    "_nodeVersion": "20.16.0",
+    "_npmVersion": "10.8.2",
+    "dist": {
+        "integrity": "sha512-+fgjg2wRoB7EEe+Mv6FDRomWuRQN2zMid6djfVYiOCoK6CKB42tgYOk4YoMy9cwlNvXOtBc/03qRz+ZnH65/3Q==",
+        "shasum": "830adedb60030ab413b3ab153fd5f54ecbc0e5e0",
+        "tarball": "https://registry.npmjs.org/1.1.1-version/-/1.1.1-version-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 328,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQD4Wexy593wzAVK18aLY/0MEJ7D9QXCpbrLQOEfeK6KGwIgEZXoSTdTj2VmXycRNtgnnuKiiVLHG41zsXeqS+N6e4E="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "manav_parasiya",
+        "email": "manavparasiya1020@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "manav_parasiya",
+            "email": "manavparasiya1020@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1.1.1-version_1.0.0_1722507343074_0.6434585837996896"
+    },
+    "_hasShrinkwrap": false
+}

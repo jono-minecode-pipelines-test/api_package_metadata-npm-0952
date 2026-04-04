@@ -1,0 +1,70 @@
+{
+    "name": "115open",
+    "version": "1.0.1",
+    "description": "115\u5f00\u653e\u5e73\u53f0 JS/TS SDK\uff0c\u652f\u6301 Node.js\u3001Vue\u3001React\u3002\u4e2d\u82f1\u6587\u6ce8\u91ca\uff0c\u5355\u5143\u6d4b\u8bd5\uff0cCI\u96c6\u6210\u3002115 Open Platform JS/TS SDK for Node.js, Vue, React. With Chinese/English comments, unit tests, CI integration.",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "test": "jest",
+        "lint": "eslint src --ext .ts"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dustink66/115open-js-sdk.git"
+    },
+    "author": {
+        "name": "\u5c18\u58a8\u6210",
+        "email": "dustink@qq.com",
+        "url": "dustink"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@types/jest": "^30.0.0",
+        "eslint": "^8.0.0",
+        "jest": "^29.0.0",
+        "typescript": "^5.0.0"
+    },
+    "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e",
+    "dependencies": {
+        "@types/axios": "^0.14.4",
+        "axios": "^1.10.0"
+    },
+    "_id": "115open@1.0.1",
+    "gitHead": "61c0275e75dda108e9773c37fc964477bc660d51",
+    "bugs": {
+        "url": "https://github.com/dustink66/115open-js-sdk/issues"
+    },
+    "homepage": "https://github.com/dustink66/115open-js-sdk#readme",
+    "_nodeVersion": "20.19.2",
+    "_npmVersion": "10.8.2",
+    "dist": {
+        "integrity": "sha512-MAT11LYYZBPMb+vuFOLT8MHkblvR2dHfUItM3EPMHY2pP9l/8YpKhfcVl43LcBrAr4RdHPg0B6jOMEgzaC0uEA==",
+        "shasum": "626e253e0bad7543f6a76c56e9ab01770c09a2b4",
+        "tarball": "https://registry.npmjs.org/115open/-/115open-1.0.1.tgz",
+        "fileCount": 10,
+        "unpackedSize": 27974,
+        "signatures": [
+            {
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                "sig": "MEYCIQDBLzv3MXPd9nN3QaBVSJG4NJLcgUG9fSfFRNEWx1VZlQIhAPYCiDW8IqPq3PyRfI4LV9oAxlPOw2YHAXs3JG59s7fS"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "dustink66",
+        "email": "dustink@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "dustink66",
+            "email": "dustink@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/115open_1.0.1_1752587473471_0.5395678062672957"
+    },
+    "_hasShrinkwrap": false
+}

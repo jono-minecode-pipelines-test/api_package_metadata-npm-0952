@@ -1,0 +1,50 @@
+{
+    "name": "101-node-basics",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "yargs": "^17.7.1"
+    },
+    "_id": "101-node-basics@1.0.0",
+    "_nodeVersion": "18.15.0",
+    "_npmVersion": "9.5.0",
+    "dist": {
+        "integrity": "sha512-tPv67n2IwJW0cCJw7u8i0S0nmncMe87843KLMghkbUPQFuyRM4x5P8ep1iQkwBfbrvi/q4TWggqedApsfNnA5Q==",
+        "shasum": "6774903781112517a5a7a2d6c9b6cfd16811bc98",
+        "tarball": "https://registry.npmjs.org/101-node-basics/-/101-node-basics-1.0.0.tgz",
+        "fileCount": 8,
+        "unpackedSize": 3287451,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCZvO6NAc5DHgwsnnGA2SdV5MBke654sY8IZH4EIl67hQIgJzbUl+VSu8roGCO2G+ZSCXfEptu/RlogoD+iCKe7j+A="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJkLosyACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr29A//dLM6cC7Ri7yHkdePFYTsX4nAWMMseYgtKdhQ3qJOsNnvW9RL\r\ndbV7dL5MnovXkOarLgprAzVHubfZXT+AuA+sb458vTd2T/QZRsBGajvfn5U4\r\nzNoWD4nf35PHHYYbNVDjWR8theKXZ7ShPJceo/iX4Qgpt5YuaAdCA/h6qBlQ\r\n45YbYb4voi+rLMkXYQ5MjdDcdJRLfnZHl7hgLXi85i2XrAsGQ5iu4vUEr1ZJ\r\ncDCJiutmh+yCKF6Cow0ne5P9ViQmy+LeYlRSB2ORxJ8gLs7JN5Aoe4I7gHsN\r\nHe4Z6IZ6C++nCrZwEmqowq/+rTK/6fBUKBDXycIDX4JsBFWHZLfx8OgVulPJ\r\nt1uyxO4yJP4erT0yIzgSkMWfpnuAMiofmHG9e24/mjFqs1o0vJxEIBSFmQRK\r\nW/uMO4vRSUq00QvjfVF/QM+8VuhBlzV7eZnOh57dS5AaRCfvI2Mh+DhC6fHB\r\nkQw+5FrfLlW6ZZVYWckWGtaWl3l9+95Dpxlct3CQELHLOHUbvmtpy+aSys5n\r\nK8GPXtNTiGXctzC16HGbzRDjvzKe6ksBpvqlpnC6E3o3YAbTeY+JZ7zl0C/M\r\noUoLy+l9+5gf7yQhj8qhREPU1EIFZ8vFZAetmmcdl1fYZ2hxhzPbeuPjtNZt\r\njWeEElJPoIPuCzcRBvP9hWDavYKJiWcd/b4=\r\n=XtYK\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rutujavibhute",
+        "email": "rutujavibhite21@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rutujavibhute",
+            "email": "rutujavibhite21@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/101-node-basics_1.0.0_1680771890478_0.02261664390961582"
+    },
+    "_hasShrinkwrap": false
+}

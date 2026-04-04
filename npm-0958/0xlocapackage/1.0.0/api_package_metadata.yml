@@ -1,0 +1,52 @@
+{
+    "name": "0xlocapackage",
+    "version": "1.0.0",
+    "description": "0xloca deploying",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "(https://github.com/fizalasdair/0xlocapackage.git)"
+    },
+    "keywords": [
+        "npm"
+    ],
+    "author": {
+        "name": "0xloca"
+    },
+    "license": "ISC",
+    "_id": "0xlocapackage@1.0.0",
+    "_nodeVersion": "18.13.0",
+    "_npmVersion": "9.5.0",
+    "dist": {
+        "integrity": "sha512-rmsb+lnHsrAflAQmTaXkgY+xza52qoKIuokYTHPY6bVd6He9Kz0yMuj9fdrM/A+HBgyPfDLQ5B6gt8cFTgkbwQ==",
+        "shasum": "4124647ea199cefee90741c81d7a831cc73c1b04",
+        "tarball": "https://registry.npmjs.org/0xlocapackage/-/0xlocapackage-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 523,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIGiEETUEp5ymuM0WDGdoFGAU1o04ZReunA1jaemCx7CZAiAaiK931OJywXM0eL1+ZgN5+g4ps9ZXkjwEAFRILcRGHw=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "fizalasdair",
+        "email": "fizyalasdair@hotmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "fizalasdair",
+            "email": "fizyalasdair@hotmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0xlocapackage_1.0.0_1708660006358_0.917046980301292"
+    },
+    "_hasShrinkwrap": false
+}

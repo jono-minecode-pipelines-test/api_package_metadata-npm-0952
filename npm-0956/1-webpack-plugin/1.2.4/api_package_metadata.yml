@@ -1,0 +1,53 @@
+{
+    "name": "1-webpack-plugin",
+    "version": "1.2.4",
+    "main": "./src/MyWebpackPlugin.js",
+    "scripts": {
+        "dev": "webpack --watch",
+        "build": "webpack",
+        "release": "npm run build && npm version patch && npm publish",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "jkr"
+    },
+    "license": "ISC",
+    "devDependencies": {
+        "webpack": "^5.92.1",
+        "webpack-cli": "^5.1.4"
+    },
+    "_id": "1-webpack-plugin@1.2.4",
+    "gitHead": "5995fe85c14071baa702534525d56fa1bd1f8c1b",
+    "_nodeVersion": "22.1.0",
+    "_npmVersion": "10.7.0",
+    "dist": {
+        "integrity": "sha512-7WpS3kNYVDyydKZCNcdv/h4dUNr5IS6FS/IAzOo2xgYNuLSi6zArcH+wbFOsVclMx8/nJEsRwyd+eL8/GvhT7g==",
+        "shasum": "9b91a4525eb7887b30f856f65e6a7f4b531489aa",
+        "tarball": "https://registry.npmjs.org/1-webpack-plugin/-/1-webpack-plugin-1.2.4.tgz",
+        "fileCount": 7,
+        "unpackedSize": 5412,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDp9QcFWk/9DLHxA5yxbyvmUgtkxhHtJK5B9KpLZp7CtgIhAJ3Ljpms/h56Kgq3I6wMcbg4p2Qi4YGupola8kHfKGD/"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "jiakairu",
+        "email": "jkr301041@163.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "jiakairu",
+            "email": "jkr301041@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1-webpack-plugin_1.2.4_1721033852413_0.6518266253927478"
+    },
+    "_hasShrinkwrap": false
+}
