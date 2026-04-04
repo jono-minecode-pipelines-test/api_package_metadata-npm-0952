@@ -1,0 +1,63 @@
+{
+    "name": "11k-utils",
+    "version": "0.1.0",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "11k-utils@0.1.0",
+    "maintainers": [
+        {
+            "name": "thisisamank",
+            "email": "thisisamank@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "32081dc596481c929174eb94ec1990e248a4c8e1",
+        "tarball": "https://registry.npmjs.org/11k-utils/-/11k-utils-0.1.0.tgz",
+        "fileCount": 25,
+        "integrity": "sha512-I2C1lkNoohMYqBKsMiElpT8D+NYd/gEoXjK3N5CNBU0NthC4D0fePUdsnzeCu7go3FbVzSTmwyXZpaawEzo9eg==",
+        "signatures": [
+            {
+                "sig": "MEQCIFljwz9q27flkrxdedjOwNueewYmAIT1qsw4daOg+3KiAiAaq58kTdOUT9w5xowRI9ryI7SAeredbZH45yMKLvnC8A==",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 15665
+    },
+    "main": "dist/app.js",
+    "type": "module",
+    "gitHead": "9fd6664ada5774eda72fa2589d48fba5af7c058d",
+    "scripts": {
+        "dev": "nodemon --exec 'npm run start' --ext ts",
+        "lint": "eslint . --ext .ts",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "npx tsc",
+        "start": "tsc && node dist/index.js"
+    },
+    "_npmUser": {
+        "name": "thisisamank",
+        "email": "thisisamank@gmail.com"
+    },
+    "_npmVersion": "8.19.4",
+    "description": "This project provides a custom logger for distributed tracing in Node.js applications, along with middleware and an Axios wrapper that automatically includes a tracing ID for propagating requests across services.",
+    "directories": {},
+    "_nodeVersion": "16.20.2",
+    "dependencies": {
+        "pino": "^9.5.0",
+        "uuid": "^10.0.0",
+        "axios": "^1.7.7",
+        "express": "^4.21.1",
+        "typescript": "^5.6.3",
+        "async_hooks": "^1.0.0",
+        "@types/axios": "^0.14.4"
+    },
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "@types/node": "^22.8.1",
+        "@types/express": "^5.0.0"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/11k-utils_0.1.0_1729973841873_0.2538939857407201",
+        "host": "s3://npm-registry-packages"
+    }
+}

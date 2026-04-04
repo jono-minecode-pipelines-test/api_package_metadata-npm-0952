@@ -1,0 +1,50 @@
+{
+    "name": "120-webpack-numbers",
+    "version": "1.0.1",
+    "description": "",
+    "main": "dist/webpack-numbers.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "lodash": "^4.17.21",
+        "webpack": "^5.72.0",
+        "webpack-cli": "^4.9.2"
+    },
+    "_id": "120-webpack-numbers@1.0.1",
+    "_nodeVersion": "12.22.12",
+    "_npmVersion": "6.14.16",
+    "dist": {
+        "integrity": "sha512-e3gI+J2KFuB+AyrsIytqUXfhz0uVERPF4ST+56HkGGOdKcuijKpnu1IGmCGLWTfj5RrOjmUbcm9dx5vrpvon7g==",
+        "shasum": "bce1527ff4003d66be9ef91d0004e11a7b836673",
+        "tarball": "https://registry.npmjs.org/120-webpack-numbers/-/120-webpack-numbers-1.0.1.tgz",
+        "fileCount": 6,
+        "unpackedSize": 2860,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDxnAQgTudo6XFELLkD0I/KybTdssBsUc1ZcSgz8WRILQIgJ0b7MG60I2XqtuYOz/8JTk/c/Y84V2qDsoYeXnKjRKI="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJibJ9fACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqElA/+N6h9dnsiwjMP4uvPEXM/qhRM9r+oQeftzLqCX7OmLJg+hJZV\r\nkRoHlq/O/1D/RdXZ9apAhZQStqQ5cJIGI63ggddw+gUDVOmvjd/F7LvkHdlm\r\nYf74Iy+pchaIviFFjACwGp3/Eqs9UfEZZ4setX/TrlCII7iPYkwFZU4E/z0J\r\n81TaJw4pse12KLCcAdQBKDbhQGrgWRkc/xPNiVLaetoQFJZrOcRSyZZk9UVZ\r\nVjcg75CdfMf0fgy9eB0N/AuSlXLq4DNoIku0Eu0OngmcKUtC+LTitmMVZt34\r\nC7eRcV+KQ2xljVwmwZHSdrTEnJSCfxpnS9L35+68bjWe+y0oH4akGtxyS6BZ\r\nuuZdFpgdokRxgRcyfkEB3uibdsHI8zlQ5zmVeOnVSXdm4uMM62wC6AFkKbl1\r\nXQrF9nn3geh8Yj/CtB4sm4DfOpfBe7sdmlVvSr+g/c47Puwo0wm3Hp06Ljii\r\nz2xKFPYwx1UN+G7jgz43811bG8YKCC9dAQTluE8jH6F8Kbf0dCG30enKSiqa\r\nhe+yxSpuDsRY8eScNdSX/Jr5N8fFfGNj7MnQhEFBJmg/Wue9TL+GkW6oT9w5\r\neyxouw1pafq1ecz142ekKPcJ1MEMx0/ic/x/BW5hDqz5K1fX0q4SCmlMvF4n\r\nPpHlywuQomvfY9ebHS8jBW+mfbcQX/hSW2Q=\r\n=h7xE\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "caoyun1999",
+        "email": "caoyun1596203725@163.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "caoyun1999",
+            "email": "caoyun1596203725@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/120-webpack-numbers_1.0.1_1651285855660_0.19929254901371096"
+    },
+    "_hasShrinkwrap": false
+}
