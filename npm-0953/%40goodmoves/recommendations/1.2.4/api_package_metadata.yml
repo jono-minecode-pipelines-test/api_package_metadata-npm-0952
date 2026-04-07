@@ -1,0 +1,64 @@
+{
+    "name": "@goodmoves/recommendations",
+    "version": "1.2.4",
+    "main": "src/index.ts",
+    "type": "module",
+    "license": " LGPL-3.0-only",
+    "publishConfig": {
+        "access": "public",
+        "main": "dist/index.js"
+    },
+    "jest": {
+        "displayName": "recommendations",
+        "preset": "../../jest.config.js"
+    },
+    "scripts": {
+        "test": "jest",
+        "lint": "yarn lint:prettier && yarn lint:eslint && yarn lint:tsc",
+        "lint:prettier": "prettier --check '**/*.{ts,tsx,js}'",
+        "lint:eslint": "eslint -c .eslintrc.json --quiet '**/*.{ts,tsx,js}'",
+        "lint:tsc": "tsc --project tsconfig.lib.json --noEmit",
+        "build": "rimraf dist && yarn build:browser && yarn build:esm",
+        "build:browser": "esbuild src/index.ts --bundle --outfile=dist/recommendations.browser.js --format=iife --global-name=GMRecommendations --minify --sourcemap",
+        "build:esm": "tsc --project tsconfig.lib.json"
+    },
+    "dependencies": {
+        "@goodmoves/common": "^1.2.4",
+        "tslib": "^2.0.0"
+    },
+    "gitHead": "2feeae28e53262868027092ef2ef3b446eb30f9f",
+    "description": "",
+    "_id": "@goodmoves/recommendations@1.2.4",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "lerna/4.0.0/node@v16.13.0+x64 (darwin)",
+    "dist": {
+        "integrity": "sha512-4akSQsKacFIa8hd1YQZN4iDz+baQkmlS2DD/qSU48UG8v+JLoS3V9afADdw8AKvYE1XULuxk0/NlfMchiJ/K2A==",
+        "shasum": "7cb5f962913972a99420e257c26c880a33fc845b",
+        "tarball": "https://registry.npmjs.org/@goodmoves/recommendations/-/recommendations-1.2.4.tgz",
+        "fileCount": 23,
+        "unpackedSize": 123661,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhsKRzCRA9TVsSAnZWagAAkfkQAJUz/feoJmwhkPDx4Jnf\nO9XjfOwqzQmd80xw0i4OnzVEPJYLx90KgiezGeykTqj/B6XDfPrkGp4oJT16\nDPGcecgpXwcmFKuBMvvUJN2X+XitIOz+6w/j1W1a+JIyrnW7Pstj2mCuk1fl\nnd4Ez38EPPobdBEi1cIoVnswXY5CLeA+FYDJTqA1Sie5PnypCqly8kiEQZwO\nnY2IcAaXb+plB/lOcPNTIfOn2gyw8Yv/pTmKs8ZtquDoQugFWI7hWlQa/2bR\nvomUoRzJ27Mv6sbWWiQcCco1FtzPlFPr2a0EY4RDhM4ES1QElpmBuSF9PAya\njIYMGEodvPnABhCKWkqR9093AKwE1f8aeM/qimMDXEWYPLvbrLf8xDU66K7G\n8rUc5OlWv1wiHidGJObPGsiEyqaGxZpKuz5nyARjxjUyZ+n3S51Tmb4sUllm\nw1W2e+UsNDOkL+1m0HBhbD/ehP6gZC2hz13IQzs5IbN5runFkSdxRH1H6gk7\ne72dgzEu/Rwtb4JqPOh7TKHytaANXBnkxiNYoP3lGoAWsOc/Iko+66kp+Luv\nBuj1YXICnbgrB1kqwWM1il9rI01SCg7/ewHs9Z+dhNs3G8dBVHZeGWiE0ptM\nF05szclI7LBmAvOJ3cyVeZ/N7kincV56d1KGxMjk8q4GToXCwpXaqGiGbZq7\nSi7Y\r\n=d+sC\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDBc3d33L91kVnC1gHPB74bDxqrFB4BPBEOfIFBc/hY8AIhAJVFx2Uq8Rmu6XaCQa5bvFYo98svg1vv3iRZhZz5EWC5"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "extronics",
+        "email": "post@calitrix.de"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "extronics",
+            "email": "post@calitrix.de"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/recommendations_1.2.4_1638966387402_0.19729633887923304"
+    },
+    "_hasShrinkwrap": false
+}
