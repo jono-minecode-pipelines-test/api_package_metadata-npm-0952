@@ -1,0 +1,53 @@
+{
+    "name": "@goodmoves/recommendations",
+    "version": "1.0.1",
+    "main": "src/index.ts",
+    "publishConfig": {
+        "access": "public",
+        "main": "dist/recommendations.esm.js"
+    },
+    "scripts": {
+        "test": "jest",
+        "build": "rimraf dist && yarn build:browser && yarn build:esm",
+        "build:browser": "esbuild src/index.ts --bundle --outfile=dist/recommendations.browser.js --format=iife --global-name=GMRecommendations --minify --sourcemap",
+        "build:esm": "esbuild src/index.ts --bundle --outfile=dist/recommendations.esm.js --format=esm --sourcemap"
+    },
+    "dependencies": {
+        "@goodmoves/common": "^1.0.1"
+    },
+    "gitHead": "62e1b84f882eef2cf5a0e736b3e437441f6c5896",
+    "description": "",
+    "_id": "@goodmoves/recommendations@1.0.1",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "lerna/4.0.0/node@v16.13.0+x64 (darwin)",
+    "dist": {
+        "integrity": "sha512-bICao+22nMirH4GTy4QiMe9+Fax/wTXjBpdqvIL4HqPzO5FNnucowevGnXlh/bDaTQyovAlJijQA40ISPY2zeA==",
+        "shasum": "a4fe90e380ea114abb8e723ff2bee85e76a18a26",
+        "tarball": "https://registry.npmjs.org/@goodmoves/recommendations/-/recommendations-1.0.1.tgz",
+        "fileCount": 24,
+        "unpackedSize": 67394,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoO4QCRA9TVsSAnZWagAASPcP/A1LDStbJEwhzXM+cuyU\nsVr0TPqkM5ZvxkTwQ9oRHQjIJSAbhOzrrk201XZ+lBiaJ+1JdzxV/isHPZvh\nsMyRGHAGtPgb96s36heLCZFw35ETnON6rjpIvuzLS1tl8wwaLLKyh4qjn80L\naQFWBT30zfsrZwlD2bzVyNgpjXrijtUBaE+8TfvcHUyBBLNoNH+RbLa7dsA5\nYhG2ta7XxmLcbF/puHzP97Pbsm/pfmXjp8yIP4RHgBND4wB40muTH7DZGO0+\ngPn3kGlerL/NTNvSUskAM0gn1FgTtzN+mEJUbtHsNn9Yn0O9R0sEhV0EqWf+\nT/trm1gccTMd64yI1lvwmow/ONkGNvES8lMkAqgP54327fOmva8wadgvTzMv\nWIJbeqC0ybP/SWyvNNFpCAjJa4kYaoitGN5Oj/E/hzJmwv/0ihp08PNNEXEN\nOKsxywOs5OL+odHtCbi1Jeu8IqlXwibjF05vabXXR/k3B0SMvTEusqAaw90G\nXfTgtIFbV87qd3Qo9lcD/EFqnPQKrcV5SSntSRMknJ49YuIR74ErhYmu+llI\nZF77rrZdq8fMjEzVkm1cRjzS4F9InTatZUXQA8bhickbrAR00jA+ZR4uuHZc\n0s9qpDErgt4ZolPHJ88WBCgosegGXjlRvgLUEZ5KEABXXiisMO7syGsmVraG\n+tvU\r\n=OImv\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBCdj6CUQIiBVHFcwRay0lTNW+L4SoaSuvO89Ae55psbAiBNLKxeA9uiEHi/JO6872R6gNBmFviiHRb/yHTLWmf91g=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "extronics",
+        "email": "post@calitrix.de"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "extronics",
+            "email": "post@calitrix.de"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/recommendations_1.0.1_1637936656332_0.6525828263778666"
+    },
+    "_hasShrinkwrap": false
+}
